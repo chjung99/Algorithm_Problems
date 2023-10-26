@@ -6,7 +6,9 @@ n, m = map(int, input().split())
 def func(v):
     global ret
     if len(v) == m:
-        ret.append(v.copy())
+        for vv in v:
+            print(vv, end=" ")
+        print("")
         return
     for j in range(1, n+1):
         if j not in v:
