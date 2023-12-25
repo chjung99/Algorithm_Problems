@@ -1,6 +1,5 @@
 import heapq
-import sys
-input = sys.stdin.readline
+
 N, M, K, X = map(int, input().split())
 graph = [[] for _ in range(N + 1)]
 dist = [float("inf") for _ in range(N + 1)]
