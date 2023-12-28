@@ -1,42 +1,47 @@
-import heapq
+import sys,heapq
+input = sys.stdin.readline
+INF = int(1e9)
 
-N = int(input())
-A, B, C = map(int, input().split())
-M = int(input())
+n = int(input())
+A,B,C = map(int,input().split())
+g = [[] for _ in range(n+1)]
+m = int(input())
+for _ in range(m):
+    a,b,c = map(int,input().split())
+    g[a].append((b,c))
+    g[b].append((a,c))
 
-graph = [[] for _ in range(N + 1)]
-friends = [A, B, C]
-cand = []  # [[노드 번호 X, X에서 가장 가까운 친구의 집까지 거리], ..]
+def dijstra(start):
+    dis = [INF] * (n+1)
+    dis[start] = 0 
+    q = [(0,start)]
+
+    while q:
+        now_dist,now_node = heapq.heappop(q)
+        if dis[now_node] != now_dist : continue
+
+        for next_node,next_dist in g[now_node]:
+            if dis[now_node] + next_dist < dis[next_node]:
+                dis[next_node] = dis[now_node] + next_dist
+                heapq.heappush(q,(dis[next_node],next_node))
+    
+    return dis
+
+dijstra_a = dijstra(A)
+dijstra_b = dijstra(B)
+dijstra_c = dijstra(C)
+
+MAX = 0; answer = 0
+for i in range(1,n+1):
+    
+    if MAX < min(dijstra_a[i],dijstra_b[i],dijstra_c[i]):
+        MAX = min(dijstra_a[i],dijstra_b[i],dijstra_c[i])
+        answer = i
+
+print(answer)
 
 
-def dijkstra(start):
-    dist = [float("inf") for _ in range(N + 1)]
-    dist[start] = 0
-    pq = []
-    heapq.heappush(pq, [0, start])
-    while pq:
-        cur_dist, cur = heapq.heappop(pq)
-        if cur_dist > dist[cur]:
-            continue
-        for nxt_dist, nxt in graph[cur]:
-            if dist[nxt] > cur_dist + nxt_dist:
-                dist[nxt] = cur_dist + nxt_dist
-                heapq.heappush(pq, [dist[nxt], nxt])
-    return dist
 
-for i in range(M):
-    D, E, L = map(int, input().split())
-    graph[D].append([L, E])
-    graph[E].append([L, D])
 
-friends_dist = []
-friends_dist.append(dijkstra(A))
-friends_dist.append(dijkstra(B))
-friends_dist.append(dijkstra(C))
 
-for i in range(1, N + 1):
-    if i not in friends:
-        cand.append([i, min(friends_dist[0][i], friends_dist[1][i], friends_dist[2][i])])
 
-cand.sort(key=lambda x: (-x[1], x[0]))
-print(cand[0][0])
