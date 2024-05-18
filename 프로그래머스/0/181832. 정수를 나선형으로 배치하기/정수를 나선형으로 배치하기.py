@@ -8,22 +8,23 @@ def solution(n):
     dx = [0, 1, 0, -1]
     dy = [1, 0, -1, 0]
     cx, cy, cd = 0, 0, 0
-    cnt = 1
-    visit[cx][cy] = 1
-    arr[cx][cy] = cnt
+    cnt = 0
     T = n ** 2
-    
-    while cnt < T:
+
+    while True:
+        visit[cx][cy] = 1
         cnt += 1
+        arr[cx][cy] = cnt
         
+        if cnt == T:
+            break
+
         nx, ny = cx + dx[cd], cy + dy[cd]
+        
         if out_of_range(nx, ny, n) or visit[nx][ny]:
             cd = (cd + 1) % 4
             nx, ny = cx + dx[cd], cy + dy[cd]
-            
-        arr[nx][ny] = cnt
-        visit[nx][ny] = 1
-        
+
         cx, cy = nx, ny
-    
+
     return arr
