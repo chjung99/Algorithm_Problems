@@ -1,46 +1,34 @@
 N, M, K = map(int, input().split())
 arr = [[i + M * j for i in range(1, M + 1)] for j in range(N)]
-visit = [[0 for _ in range(M)] for __ in range(N)]
-cnt = 0
-dx = [1, 0]
-dy = [0, 1]
-
-
-def out_of_range(nx, ny):
-    return nx < 0 or nx >= N or ny < 0 or ny >= M
-
-
-def dfs(is_count, cx, cy, visit, arr):
-    global cnt
-
-    if arr[cx][cy] == K:
-        is_count = True
-
-    if not is_count and arr[cx][cy] > K:
-        return
-
-
-
-    if arr[cx][cy] == N * M:
-        if is_count:
-            cnt += 1
-        return
-    for i in range(2):
-        nx = cx + dx[i]
-        ny = cy + dy[i]
-        if out_of_range(nx, ny) or visit[nx][ny]:
-            continue
-        visit[nx][ny] = 1
-        dfs(is_count, nx, ny ,visit, arr)
-        visit[nx][ny] = 0
-
-
-visit[0][0] = 1
+dp = [[0 for _ in range(M)] for __ in range(N)]
+dp2 = [[0 for _ in range(M)] for __ in range(N)]
+dp[0][0] = 1
 if K == 0:
-    dfs(True,0,0,visit,arr)
+    for i in range(N):
+        for j in range(M):
+            if i>0:
+                dp[i][j] += dp[i-1][j]
+            if j>0:
+                dp[i][j] += dp[i][j-1]
+    print(dp[N-1][M-1])
 else:
-    dfs(False, 0, 0 , visit, arr)
+    px = (K-1) // M
+    py = (K-1) % M
+    # print(px, py)
+    for i in range(px+1):
+        for j in range(py+1):
+            if i>0:
+                dp[i][j] += dp[i-1][j]
+            if j>0:
+                dp[i][j] += dp[i][j-1]
+    ans = dp[px][py]
 
-print(cnt)
-
-
+    dp2[px][py]= 1
+    for i in range(px, N):
+        for j in range(py, M):
+            if i>0:
+                dp2[i][j] += dp2[i-1][j]
+            if j>0:
+                dp2[i][j] += dp2[i][j-1]
+    ans *= dp2[N-1][M-1]
+    print(ans)
