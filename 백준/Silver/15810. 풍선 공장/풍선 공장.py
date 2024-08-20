@@ -1,30 +1,21 @@
 N, M = map(int, input().split())
-A = list(map(int, input().split()))
-left = 0
-right = min(A) * M
+arr = list(map(int, input().split()))
+
+left = 1
+right = 1000000 * 1000000
 
 
-def check(t):
+def func(t):
     cnt = 0
-    for x in A:
+    for x in arr:
         cnt += t // x
     return cnt >= M
 
 
-while left < right:
+while left + 1 < right:
     mid = (left + right) // 2
-    if check(mid):
+    if func(mid):
         right = mid
     else:
-        left = mid + 1
-print(left)
-# print(left, right, check(right))
-
-
-# 3 3
-# 1 1 1
-# 0 0 False
-
-# 3 8
-# 5 7 3
-# 14 14 True
+        left = mid
+print(right)
