@@ -29,7 +29,7 @@ public class Main
             dist[a][b] = c;
         }
 
-        for (int k=0;k<V;k++){
+        for (int k=1;k<V+1;k++){
             for(int i=1;i<V+1;i++){
                 for(int j=1;j<V+1;j++){
                     if (dist[i][k] != Integer.MAX_VALUE && dist[k][j] != Integer.MAX_VALUE) {
