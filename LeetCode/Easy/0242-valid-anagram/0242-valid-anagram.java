@@ -1,10 +1,12 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
         int[] countS = new int[26];
+        int slen = s.length();
+        int tlen = t.length();
 
-        if (s.length() != t.length()) return false;
+        if (slen != tlen) return false;
         
-        for (int i = 0; i < s.length(); i++){
+        for (int i = 0; i < slen; i++){
             countS[s.charAt(i)-'a'] += 1;
             countS[t.charAt(i)-'a'] -= 1;
         }
