@@ -2,19 +2,26 @@ class Solution {
     public int[] countBits(int n) {
         int[] ans = new int[n+1];
 
-        for (int i = 0; i <= n; i++) {
-            ans[i] = numberOfSetBit(i);
+        ans[0] = 0;
+        ans[1] = 1;
+
+        int fac = 2;
+        int prev = 1;
+
+        for (int i = 2; i <= n; i++){
+            if (i == fac){
+                prev = fac;
+                fac *= 2;
+
+                ans[i] = 1;
+                continue;
+            }
+
+            ans[i] = 1+ ans[i-prev];
         }
 
         return ans;
     }
 
-    public int numberOfSetBit(int n) {
-        int cnt = 0;
-        while (n != 0) {
-            if (n % 2 == 1) cnt ++;
-            n = (int) n / 2;
-        }
-        return cnt;
-    }
+    
 }
