@@ -20,12 +20,11 @@ class WordDictionary {
     public boolean dfs(Node node, String word, int depth) {
         if (depth == word.length()) return node.isEndOfWord;
         if (word.charAt(depth) == '.') {
-            boolean flag = false;
             for (Character c: node.childNode.keySet()) {
                 Node nextNode = node.childNode.get(c);
-                flag |= dfs(nextNode, word, depth + 1);
+                if (dfs(nextNode, word, depth + 1)) return true;
             }
-            return flag;
+            return false;
         } else {
             Node nextNode = node.childNode.getOrDefault(word.charAt(depth), null);
             if (nextNode == null) return false;
