@@ -44,6 +44,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,13 +55,16 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
