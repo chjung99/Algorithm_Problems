@@ -67,4 +67,16 @@
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
