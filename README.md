@@ -89,6 +89,7 @@
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0263-ugly-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
