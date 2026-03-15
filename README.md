@@ -121,4 +121,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
