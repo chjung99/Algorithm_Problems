@@ -79,6 +79,7 @@
 | [0202-happy-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
+| [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
+| [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +138,8 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
