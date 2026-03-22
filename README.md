@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0228-summary-ranges/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
