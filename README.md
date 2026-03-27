@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -93,6 +94,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
