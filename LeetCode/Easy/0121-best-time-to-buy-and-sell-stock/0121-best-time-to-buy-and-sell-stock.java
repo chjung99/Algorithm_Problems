@@ -1,22 +1,14 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int N = prices.length;
-        int[] rangeMaxAfter = new int[N];
-        int maxValue = prices[N-1];
+        int n = prices.length;
+        int ans = 0;
+        int minValue = prices[0];
         
-        for (int i = N-1; i >= 0; i--){
-            if (maxValue < prices[i]){ 
-                maxValue = prices[i];
-            }
-            rangeMaxAfter[i] = maxValue;
+        for (int i = 0; i < n; i++) {
+            ans = Math.max(ans, prices[i] - minValue);
+            minValue = Math.min(minValue, prices[i]);
         }
 
-        int answer = rangeMaxAfter[0] - prices[0];
-
-        for (int i = 0; i < N; i++){
-            answer = Math.max(answer, rangeMaxAfter[i] - prices[i]);
-        }
-        
-        return answer;
+        return ans;
     }
 }
