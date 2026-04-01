@@ -1,35 +1,28 @@
 class Solution {
-    boolean isArrived;
-    int SIZE;
-    
     public boolean canJump(int[] nums) {
-        isArrived = false;
-        SIZE = nums.length;
+        int n = nums.length;
+        boolean[] visit = new boolean[n];
 
-        bfs(nums, 0);
-
-        return isArrived;
+        bfs(nums, visit, n);
+        return visit[n-1];
     }
 
-    public void bfs(int[] nums, int x) {
-        Queue<Integer> q = new ArrayDeque<>();
-        q.add(x);
-        boolean[] visit = new boolean[SIZE];
-        visit[x] = true;
+    public void bfs(int[] nums, boolean[] visit, int n) {
+        Deque<Integer> q = new ArrayDeque<>();
+        visit[0] = true;
+        q.add(0);
 
-        int curX;
-        int nextX;
-
-        while (!q.isEmpty()){
-            curX = q.poll();
-            isArrived = (curX + 1) == SIZE;
-            if (isArrived) return;
-
-            for (int dx = 1; dx <= nums[curX]; dx++){
-                nextX = curX + dx;
-                if (nextX >= SIZE || visit[nextX]) continue;
-                q.add(nextX);
-                visit[nextX] = true;
+        while (q.size() > 0) {
+            int cur = q.poll();
+            for (int i = 1; i <= nums[cur]; i++) {
+                int nxt = cur + i;
+                if (nxt >= n) {
+                    continue;
+                }
+                if (!visit[nxt]) {
+                    visit[nxt] = true;
+                    q.add(nxt);
+                }
             }
         }
     }
