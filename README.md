@@ -91,6 +91,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
@@ -116,6 +117,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
@@ -126,6 +128,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
