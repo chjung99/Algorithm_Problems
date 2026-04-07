@@ -1,8 +1,9 @@
 class Solution {
     public int romanToInt(String s) {
+        int result = 0;
         int n = s.length();
-        Deque<Character> deque = new ArrayDeque<>();
         Map<Character, Integer> map = new HashMap<>();
+
         map.put('I', 1);
         map.put('V', 5);
         map.put('X', 10);
@@ -11,17 +12,19 @@ class Solution {
         map.put('D', 500);
         map.put('M', 1000);
 
-        int answer = 0;
         for (int i = 0; i < n - 1; i++) {
-            Character key = s.charAt(i);
-            Character nextKey = s.charAt(i+1);
-            if (map.get(key) >= map.get(nextKey)) {
-                answer += map.get(key);
+
+            int cur = map.get(s.charAt(i));
+            int nxt = map.get(s.charAt(i+1));
+
+            if (cur < nxt) {
+                result -= cur;
             } else {
-                answer -= map.get(key);
+                result += cur;
             }
         }
-        answer += map.get(s.charAt(n-1));
-        return answer;
+        result += map.get(s.charAt(n-1));
+
+        return result;
     }
 }
