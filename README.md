@@ -129,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0058-length-of-last-word](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
