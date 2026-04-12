@@ -117,6 +117,7 @@
 | [0189-rotate-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@
 | [0290-word-pattern](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +191,7 @@
 | [0055-jump-game](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
