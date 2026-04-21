@@ -1,31 +1,36 @@
-import java.util.*;
-
 class Solution {
     public boolean isValid(String s) {
-        ArrayDeque<Character> stack = new ArrayDeque<>();
-        for (int i = 0; i < s.length(); i++){
-            if (s.charAt(i) == '(' || s.charAt(i) == '{' || s.charAt(i) == '[' ){
-                stack.push(s.charAt(i));
-                continue;
-            }
-            
-            if (s.charAt(i) == ')' && !stack.isEmpty() && stack.peek() == '('){
-                stack.pop();
-                continue;
-            }
-            
-            if (s.charAt(i) == '}' && !stack.isEmpty() && stack.peek() == '{'){
-                stack.pop();
+        Deque<Character> st = new ArrayDeque<>();
+        int n = s.length();
+
+        for (int i = 0; i < n; i++) {
+            Character key = s.charAt(i);
+            if (key == '(' || key == '{' || key == '[') {
+                st.add(key);
                 continue;
             }
 
-            if (s.charAt(i) == ']' && !stack.isEmpty() && stack.peek() == '['){
-                stack.pop();
+            if (st.isEmpty()) {
+                return false;
+            }
+
+            if (key == ')' && st.peekLast() == '(') {
+                st.removeLast();
+                continue;
+            }
+
+            if (key == '}' && st.peekLast() == '{') {
+                st.removeLast();
+                continue;
+            }
+
+            if (key == ']' && st.peekLast() == '[') {
+                st.removeLast();
                 continue;
             }
             return false;
         }
-        return stack.isEmpty();
-        
+        return st.size() == 0;
+
     }
 }
