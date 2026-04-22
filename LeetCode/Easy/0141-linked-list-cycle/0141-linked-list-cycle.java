@@ -10,24 +10,14 @@
  * }
  */
 public class Solution {
-    Set<ListNode> visit = new HashSet<>();
     public boolean hasCycle(ListNode head) {
-        return dfs(head, visit);
-    }
-    public boolean dfs(ListNode head, Set<ListNode> visit){
-        Deque<ListNode> stack = new ArrayDeque<>();
-        if (head != null){
-            visit.add(head);
-            stack.push(head);
-        }
-        while (!stack.isEmpty()){
-            ListNode cur = stack.pop();
-            if (cur.next == null) continue;
-            if (visit.contains(cur.next)) {
+        int MARK = 100_000;
+        while (head != null) {
+            if (head.val == MARK) {
                 return true;
             }
-            visit.add(cur.next);
-            stack.push(cur.next);
+            head.val = MARK;
+            head = head.next;
         }
         return false;
     }
