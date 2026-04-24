@@ -14,35 +14,11 @@
  * }
  */
 class Solution {
-    class Data{
-        TreeNode node;
-        int depth;
-        public Data(TreeNode node, int depth){
-            this.node = node;
-            this.depth = depth;
-        }
-    }
     public int maxDepth(TreeNode root) {
-        return bfs(root);
-    }
-    public int bfs(TreeNode root) {
-        int depth = 0;
-        Queue<Data> q = new ArrayDeque<>();
-        if (root != null){
-            q.add(new Data(root, 1));
+        if (root == null) {
+            return 0;
         }
-        while (!q.isEmpty()){
-            Data cur = q.poll();
-            if (cur.depth > depth){
-                depth = cur.depth;
-            }
-            if (cur.node.left != null) {
-                q.add(new Data(cur.node.left, cur.depth + 1));
-            }
-            if (cur.node.right != null) {
-                q.add(new Data(cur.node.right, cur.depth + 1));
-            }
-        }
-        return depth;
+
+        return Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
     }
 }
