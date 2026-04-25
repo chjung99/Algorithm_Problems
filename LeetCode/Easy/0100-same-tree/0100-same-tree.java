@@ -15,39 +15,10 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        Queue<Integer> OrderP = new ArrayDeque<>();
-        Queue<Integer> OrderQ = new ArrayDeque<>();
-        trevasalTree(p, OrderP);
-        trevasalTree(q, OrderQ);
-
-        if (OrderP.size() != OrderQ.size()) return false;
-
-        while (!OrderP.isEmpty() && !OrderQ.isEmpty()){ 
-            if (!OrderP.poll().equals(OrderQ.poll())){
-                return false;
-            }
+        if (p == null || q == null) {
+            return p == q;
         }
 
-        return true;
-    }
-    public void trevasalTree(TreeNode t, Queue<Integer> queue){
-        // System.out.print(t.val+ " ");
-        if (t != null){
-            queue.add(t.val);
-        } else {
-            return;
-        }
-
-        if (t.left != null){
-            trevasalTree(t.left, queue);
-        } else {
-            queue.add(100000);
-        }
-        
-        if (t.right != null){
-            trevasalTree(t.right, queue);
-        } else {
-            queue.add(100000);
-        }
+        return p.val == q.val && isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
