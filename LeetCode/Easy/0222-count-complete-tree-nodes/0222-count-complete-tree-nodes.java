@@ -18,7 +18,20 @@ class Solution {
         if (root == null) {
             return 0;
         }
+        int leftDepth = getDepth(root.left);
+        int rightDepth = getDepth(root.right);
 
-        return 1 + countNodes(root.left) + countNodes(root.right);
+        if (leftDepth == rightDepth) {
+            return (1 << leftDepth) - 1 + countNodes(root.right) + 1;
+        }
+
+        return (1 << rightDepth) - 1 + countNodes(root.left) + 1;
+    }
+
+    public int getDepth(TreeNode node) {
+        if (node == null) {
+            return 0;
+        }
+        return 1 + getDepth(node.left);
     }
 }
