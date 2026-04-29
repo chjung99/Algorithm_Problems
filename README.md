@@ -67,12 +67,14 @@
 | [0110-balanced-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -84,6 +86,7 @@
 | [0110-balanced-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
@@ -233,6 +236,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0476-number-complement](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0476-number-complement/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
