@@ -153,6 +153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0070-climbing-stairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
@@ -224,6 +225,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
@@ -236,6 +238,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
