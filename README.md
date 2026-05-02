@@ -152,6 +152,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
