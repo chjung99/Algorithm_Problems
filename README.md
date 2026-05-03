@@ -39,6 +39,7 @@
 | [0027-remove-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0045-jump-game-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0066-plus-one](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -154,6 +155,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
