@@ -76,6 +76,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
@@ -157,6 +158,7 @@
 | [0009-palindrome-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
