@@ -29,6 +29,7 @@ class Solution {
             prev = node.val;
         } else {
             minDiff = Math.min(minDiff, node.val - prev);
+            prev = node.val;
         }
         inorder(node.right);
     }
