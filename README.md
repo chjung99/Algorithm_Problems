@@ -37,6 +37,7 @@
 | [0014-longest-common-prefix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
@@ -77,6 +78,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
