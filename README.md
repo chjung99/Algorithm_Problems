@@ -165,6 +165,7 @@
 | [0009-palindrome-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
@@ -182,6 +183,7 @@
 | [0020-valid-parentheses](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
@@ -257,6 +259,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0476-number-complement](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0476-number-complement/) | Easy |
 ## Sorting
@@ -293,4 +296,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
