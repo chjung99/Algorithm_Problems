@@ -1,20 +1,27 @@
 class Solution {
     public int reverseBits(int n) {
-        Integer[] rev = new Integer[32];
-        for (int i = 0; i < 32; i++){
-            rev[i] = 0;
+        StringBuilder sb = new StringBuilder();
+
+        while (n != 0) {
+            sb.append(Integer.toString(n % 2));
+            n = n / 2;
         }
-        int ret = 0;
-        int ptr = 0;
+
+        int padSize = 32 - sb.length();
+
+        for (int i = 0; i < padSize ; i++) {
+            sb.append('0');
+        }
+
+        String rev = sb.toString();
+        int ans = 0;
         int fac = 1;
-        while (n != 0){
-            rev[ptr++] = n % 2;
-            n = (int) (n/2);
-        }
-        for (int i = 0; i < 32; i++){
-            ret += rev[31-i] * fac;
+
+        for (int i = 31; i >= 0; i--) {
+            ans += fac * (rev.charAt(i) - '0');
             fac *= 2;
         }
-        return ret;
+
+        return ans;
     }
 }
