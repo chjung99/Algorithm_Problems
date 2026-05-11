@@ -61,6 +61,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0476-number-complement](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0476-number-complement/) | Easy |
 ## Sorting
