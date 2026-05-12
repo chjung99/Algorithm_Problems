@@ -50,6 +50,7 @@
 | [0169-majority-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
@@ -83,6 +84,7 @@
 | [0035-search-insert-position](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -198,6 +200,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -287,6 +290,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
