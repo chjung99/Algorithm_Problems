@@ -47,6 +47,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
+| [0136-single-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
@@ -265,6 +266,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
