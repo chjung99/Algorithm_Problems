@@ -178,6 +178,7 @@
 | [0202-happy-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## String
@@ -256,6 +257,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0326-power-of-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
