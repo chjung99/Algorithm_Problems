@@ -1,26 +1,26 @@
 func majorityElement(nums []int) int {
-    slices.Sort(nums)
-    prev := nums[0]
-    cnt := 0
-    ansValue := nums[0]
-    ans := 0
-    for _, num := range(nums) {
-        if (num == prev) {
-            cnt++
+    prev := nums[0];
+    cnt := 0;
+    maxCnt := 0;
+    majority := nums[0];
+    slices.Sort(nums);
+    
+    for i := 0; i < len(nums); i++ {
+        if (nums[i] == prev) {
+            cnt += 1;
         } else {
-            if (ans < cnt) {
-                ans = cnt
-                ansValue = prev
-            }
-            prev = num
-            cnt = 1
+            prev = nums[i];
+            cnt = 1;
         }
-        // fmt.Println(num, cnt, ans)
-    }
-    if (ans < cnt) {
-        ans = cnt
-        ansValue = prev
-    }
 
-    return ansValue
+        if (maxCnt < cnt ) {
+            maxCnt = cnt;
+            majority = prev;
+        }
+    }
+    if (maxCnt < cnt ) {
+        maxCnt = cnt;
+        majority = prev;
+    }
+    return majority;
 }
