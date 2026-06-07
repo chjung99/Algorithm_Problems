@@ -1,10 +1,12 @@
 func removeElement(nums []int, val int) int {
+    n := len(nums)
     cnt := 0
-    for _, v := range nums {
-        if (v != val) {
-            nums[cnt] = v
-            cnt += 1
+    for i := 0; i < n; i++ {
+        if (nums[i] == val) {
+            nums[i] = 51
+            cnt += 1 
         }
     }
-    return cnt
+    sort.Ints(nums)
+    return n - cnt
 }
