@@ -251,6 +251,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0338-counting-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -272,6 +273,7 @@
 | [0190-reverse-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
+| [0338-counting-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0476-number-complement](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0476-number-complement/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
