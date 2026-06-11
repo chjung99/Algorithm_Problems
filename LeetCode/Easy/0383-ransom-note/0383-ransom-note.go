@@ -1,15 +1,24 @@
 func canConstruct(ransomNote string, magazine string) bool {
-    counts := make(map[rune]int)
+    m := make(map[rune]int)
 
     for _, char := range magazine {
-        counts[char]++
+        _, exists := m[char]
+        if (!exists) {
+            m[char] = 1
+        } else {
+            m[char] += 1
+        }
     }
 
     for _, char := range ransomNote {
-        if (counts[char] == 0) {
+        val, exists := m[char]
+        if (!exists || val == 0) {
             return false
+        } else {
+            m[char] -= 1
         }
-        counts[char]--
     }
+
+
     return true
 }
