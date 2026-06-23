@@ -7,19 +7,17 @@
  * }
  */
 func hasPathSum(root *TreeNode, targetSum int) bool {
-    return hasPathSumWithLen(root, targetSum, 0)
+    if (root == nil) {
+        return false
+    }
+
+    if (isLeafNode(root)) {
+        return targetSum == root.Val
+    }
+
+    return hasPathSum(root.Left, targetSum - root.Val) || hasPathSum(root.Right, targetSum - root.Val)
 }
 
-func hasPathSumWithLen(root *TreeNode, targetSum int, size int) bool {
-    if (root == nil) {
-        return targetSum == 0 && size >= 1
-    }
-    if (root.Left != nil && root.Right == nil) {
-        return hasPathSumWithLen(root.Left, targetSum - root.Val, size + 1)
-    } else if (root.Left == nil && root.Right != nil) {
-        return hasPathSumWithLen(root.Right, targetSum - root.Val, size + 1)
-    } else {
-        return hasPathSumWithLen(root.Left, targetSum - root.Val, size + 1) || hasPathSumWithLen(root.Right, targetSum - root.Val, size + 1)
-    }
-    
+func isLeafNode(root *TreeNode) bool {
+    return root != nil && root.Left == nil && root.Right == nil
 }
