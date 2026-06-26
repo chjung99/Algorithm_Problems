@@ -1,21 +1,18 @@
 func twoSum(numbers []int, target int) []int {
-    idx0 := 0
-    idx1 := 1
-    n := len(numbers)
 
-    for (idx0 != idx1) {
-        sum := numbers[idx0] + numbers[idx1]
+    n := len(numbers)
+    left := 0
+    right := n - 1
+
+    for (left != right) {
+        sum := numbers[left] + numbers[right]
         if (sum == target) {
             break
         } else if (sum < target) {
-            if (idx1 + 1 < n && numbers[idx0] + numbers[idx1 + 1] <= target) {
-                idx1 += 1
-            } else {
-                idx0 += 1
-            }
+            left += 1
         } else {
-            idx1 -= 1
+            right -= 1
         }
     }
-    return []int{idx0 + 1, idx1 + 1}
+    return []int{left + 1, right + 1}
 }
