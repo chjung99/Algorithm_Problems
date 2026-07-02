@@ -54,6 +54,7 @@
 | [0169-majority-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0228-summary-ranges/) | Easy |
@@ -118,6 +119,7 @@
 | [0110-balanced-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -130,6 +132,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -331,4 +334,9 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
