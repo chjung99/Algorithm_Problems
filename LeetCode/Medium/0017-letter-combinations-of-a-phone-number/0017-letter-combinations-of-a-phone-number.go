@@ -19,7 +19,7 @@ func letterCombinations(digits string) []string {
 
 func dfs(digits string, m [][]byte, ret *[]string, depth int, n int, out string){
     if (depth == n) {
-        fmt.Println(out)
+        // fmt.Println(out)
         *ret = append(*ret, out)
         return
     }
