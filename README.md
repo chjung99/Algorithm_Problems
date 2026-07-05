@@ -159,6 +159,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0092-reverse-linked-list-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 ## Two Pointers
