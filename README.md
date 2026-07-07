@@ -207,6 +207,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0071-simplify-path](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
@@ -243,6 +244,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 ## Design
