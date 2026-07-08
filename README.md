@@ -245,11 +245,13 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
+| [0155-min-stack](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
