@@ -81,6 +81,7 @@
 | [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -93,6 +94,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
@@ -107,6 +109,7 @@
 | [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -121,6 +124,7 @@
 | [0112-path-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
