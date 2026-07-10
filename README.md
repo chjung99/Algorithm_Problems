@@ -204,6 +204,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
