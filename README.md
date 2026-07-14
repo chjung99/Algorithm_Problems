@@ -45,6 +45,7 @@
 | [0066-plus-one](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -65,6 +66,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
@@ -75,6 +77,7 @@
 | [0100-same-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -103,6 +106,7 @@
 | [0100-same-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -148,6 +152,7 @@
 | [0013-roman-to-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
