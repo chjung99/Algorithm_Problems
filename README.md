@@ -163,6 +163,7 @@
 | [0290-word-pattern](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@
 | [0344-reverse-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -316,6 +318,7 @@
 | [0191-number-of-1-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0338-counting-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0476-number-complement](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0476-number-complement/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -324,6 +327,7 @@
 | [0169-majority-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
+| [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
