@@ -64,6 +64,7 @@
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0322-coin-change](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,8 +371,13 @@
 | [0036-valid-sudoku](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
