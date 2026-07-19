@@ -64,6 +64,7 @@
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0322-coin-change](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -215,6 +216,7 @@
 | [0326-power-of-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
