@@ -40,6 +40,7 @@
 | [0035-search-insert-position](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0045-jump-game-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0054-spiral-matrix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
@@ -268,6 +269,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0046-permutations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 ## Stack
