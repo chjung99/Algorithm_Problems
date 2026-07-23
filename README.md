@@ -164,6 +164,7 @@
 | [0036-valid-sudoku](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
@@ -183,6 +184,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -284,6 +286,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
@@ -392,4 +395,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
