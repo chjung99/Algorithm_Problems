@@ -231,6 +231,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
