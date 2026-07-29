@@ -179,6 +179,7 @@
 | [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [3668-restore-finishing-order](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -259,6 +260,7 @@
 | [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
