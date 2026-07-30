@@ -233,6 +233,7 @@
 | [0326-power-of-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
