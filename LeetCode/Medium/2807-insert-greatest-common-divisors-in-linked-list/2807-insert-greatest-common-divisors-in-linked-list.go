@@ -20,12 +20,8 @@ func insertGreatestCommonDivisors(head *ListNode) *ListNode {
 }
 
 func getGCD(x int, y int) int {
-    gcd := min(x, y)
-    for (true) {
-        if (x % gcd == 0 && y % gcd == 0) {
-            break
-        }
-        gcd -= 1
+    for y != 0 {
+        x, y = y, x % y
     }
-    return gcd
+    return x
 }
