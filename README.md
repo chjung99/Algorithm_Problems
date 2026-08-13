@@ -68,6 +68,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
@@ -269,6 +270,7 @@
 | [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sliding Window
