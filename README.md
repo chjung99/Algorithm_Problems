@@ -67,6 +67,7 @@
 | [0322-coin-change](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
@@ -278,6 +279,7 @@
 | [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
@@ -397,6 +399,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
