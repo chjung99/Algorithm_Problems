@@ -72,6 +72,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
@@ -338,6 +339,7 @@
 | [0169-majority-element](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +385,7 @@
 | [0242-valid-anagram](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
