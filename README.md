@@ -71,6 +71,7 @@
 | [1920-build-array-from-permutation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
@@ -226,6 +227,7 @@
 | [0344-reverse-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -424,6 +426,7 @@
 | [1920-build-array-from-permutation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
