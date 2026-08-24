@@ -68,6 +68,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -249,6 +250,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2469-convert-the-temperature](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
@@ -314,6 +316,7 @@
 | [0046-permutations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +382,7 @@
 | [0338-counting-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0476-number-complement](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0476-number-complement/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,4 +463,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
