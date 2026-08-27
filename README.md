@@ -206,6 +206,7 @@
 | [0146-lru-cache](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -434,6 +435,7 @@
 | [1929-concatenation-of-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
