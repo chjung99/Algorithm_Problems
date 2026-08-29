@@ -191,6 +191,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [0771-jewels-and-stones](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -287,6 +288,7 @@
 | [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0771-jewels-and-stones](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
