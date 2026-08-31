@@ -235,6 +235,7 @@
 | [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +300,7 @@
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
