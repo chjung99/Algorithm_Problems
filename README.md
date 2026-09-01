@@ -77,6 +77,7 @@
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
@@ -264,6 +265,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
