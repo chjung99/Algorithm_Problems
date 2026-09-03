@@ -302,6 +302,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
@@ -450,6 +451,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
