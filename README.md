@@ -66,6 +66,7 @@
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0322-coin-change](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [1470-shuffle-the-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
