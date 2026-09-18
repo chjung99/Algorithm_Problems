@@ -66,6 +66,7 @@
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0322-coin-change](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
