@@ -81,6 +81,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -211,6 +212,7 @@
 | [0771-jewels-and-stones](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
@@ -430,6 +432,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
