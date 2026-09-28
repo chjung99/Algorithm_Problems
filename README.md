@@ -123,6 +123,7 @@
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
@@ -137,6 +138,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -174,6 +177,7 @@
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
