@@ -72,6 +72,7 @@
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1720-decode-xored-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
@@ -445,6 +446,7 @@
 | [0476-number-complement](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0476-number-complement/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1720-decode-xored-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
