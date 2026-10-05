@@ -66,6 +66,7 @@
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0322-coin-change](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
@@ -219,6 +220,7 @@
 | [0383-ransom-note](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -462,6 +464,7 @@
 | [0242-valid-anagram](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
 | [3731-find-missing-elements](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
@@ -478,6 +481,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
