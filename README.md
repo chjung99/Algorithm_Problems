@@ -291,6 +291,7 @@
 | [0509-fibonacci-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2235-add-two-integers](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
@@ -507,6 +508,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
