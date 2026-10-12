@@ -80,6 +80,7 @@
 | [1920-build-array-from-permutation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -472,6 +473,7 @@
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0389-find-the-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
 | [3731-find-missing-elements](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
@@ -484,11 +486,13 @@
 | [0134-gas-station](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
