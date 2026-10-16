@@ -72,6 +72,7 @@
 | [1470-shuffle-the-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
+| [1528-shuffle-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1720-decode-xored-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
@@ -343,6 +344,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1528-shuffle-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
