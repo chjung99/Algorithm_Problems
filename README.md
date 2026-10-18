@@ -90,6 +90,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -579,6 +580,7 @@
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
