@@ -78,6 +78,7 @@
 | [1720-decode-xored-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1816-truncate-sentence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1816-truncate-sentence/) | Easy |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
@@ -301,6 +302,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2235-add-two-integers](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
@@ -594,4 +596,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 <!---LeetCode Topics End-->
