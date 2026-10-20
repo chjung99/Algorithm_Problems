@@ -349,6 +349,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1528-shuffle-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -392,6 +393,7 @@
 | [0046-permutations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0257-binary-tree-paths](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
