@@ -281,6 +281,7 @@
 | [0344-reverse-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -362,6 +363,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1816-truncate-sentence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1816-truncate-sentence/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
@@ -413,6 +415,7 @@
 | [0225-implement-stack-using-queues](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
