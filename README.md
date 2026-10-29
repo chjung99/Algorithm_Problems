@@ -66,6 +66,7 @@
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0322-coin-change](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [1313-decompress-run-length-encoded-list](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1313-decompress-run-length-encoded-list/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
