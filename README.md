@@ -320,6 +320,7 @@
 | [2396-strictly-palindromic-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
