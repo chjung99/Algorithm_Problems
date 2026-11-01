@@ -75,6 +75,7 @@
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1720-decode-xored-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
@@ -365,6 +366,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1528-shuffle-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
