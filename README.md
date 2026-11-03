@@ -242,6 +242,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2325-decode-the-message](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2325-decode-the-message/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
@@ -377,6 +378,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2325-decode-the-message](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2325-decode-the-message/) | Easy |
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
