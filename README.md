@@ -93,6 +93,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -511,6 +512,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
 | [3731-find-missing-elements](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
@@ -577,6 +579,7 @@
 | [0200-number-of-islands](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
