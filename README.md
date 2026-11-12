@@ -94,6 +94,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2418-sort-the-people](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2418-sort-the-people/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -250,6 +251,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2325-decode-the-message](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2325-decode-the-message/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
+| [2418-sort-the-people](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2418-sort-the-people/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
@@ -391,6 +393,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2325-decode-the-message](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2325-decode-the-message/) | Easy |
+| [2418-sort-the-people](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2418-sort-the-people/) | Easy |
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
@@ -525,6 +528,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2418-sort-the-people](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2418-sort-the-people/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
