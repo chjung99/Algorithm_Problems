@@ -117,6 +117,7 @@
 | [3701-compute-alternating-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3895-count-digit-appearances](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
@@ -349,6 +350,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
+| [3895-count-digit-appearances](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
