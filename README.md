@@ -102,6 +102,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
@@ -516,6 +517,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
