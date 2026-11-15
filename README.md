@@ -97,6 +97,7 @@
 | [2418-sort-the-people](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2418-sort-the-people/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -588,6 +589,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
