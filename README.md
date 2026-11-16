@@ -108,6 +108,7 @@
 | [2942-find-words-containing-character](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3285-find-indices-of-stable-mountains/) | Easy |
@@ -258,6 +259,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
