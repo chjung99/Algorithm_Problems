@@ -387,6 +387,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1528-shuffle-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -449,6 +450,7 @@
 | [0225-implement-stack-using-queues](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -648,6 +650,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
