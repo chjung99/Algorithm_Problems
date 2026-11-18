@@ -153,6 +153,7 @@
 | [0938-range-sum-of-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1302-deepest-leaves-sum/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -190,6 +191,7 @@
 | [0938-range-sum-of-bst](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1302-deepest-leaves-sum/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
