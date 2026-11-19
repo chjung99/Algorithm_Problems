@@ -74,6 +74,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
+| [1534-count-good-triplets](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1534-count-good-triplets/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
@@ -643,6 +644,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1534-count-good-triplets](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1534-count-good-triplets/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
