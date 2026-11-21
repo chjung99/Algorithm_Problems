@@ -66,6 +66,7 @@
 | [0274-h-index](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0322-coin-change](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1313-decompress-run-length-encoded-list/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
@@ -555,6 +556,7 @@
 | [0055-jump-game](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1323-maximum-69-number/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -613,6 +615,7 @@
 | [0054-spiral-matrix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
