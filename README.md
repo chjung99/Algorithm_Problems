@@ -82,6 +82,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1720-decode-xored-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1773-count-items-matching-a-rule](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1816-truncate-sentence/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -399,6 +400,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1773-count-items-matching-a-rule](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
