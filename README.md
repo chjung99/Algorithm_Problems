@@ -81,6 +81,7 @@
 | [1672-richest-customer-wealth](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1720-decode-xored-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1816-truncate-sentence/) | Easy |
@@ -576,6 +577,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
