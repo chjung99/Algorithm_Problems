@@ -353,6 +353,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3099-harshad-number](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/chjung99/Algorithm_Problems/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
